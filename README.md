@@ -18,6 +18,7 @@ Get information about you IP and connection. No logs!
 <h2>Step 3)</h2>
 <p>Paste this code</p>
 ```
+
 <!DOCTYPE HTML>
 <HTML>
 <head>
@@ -44,6 +45,7 @@ Get information about you IP and connection. No logs!
 ?>
 </body>
 </HTML>
+
 ```
 
 <h3>Step 3)</h3>
