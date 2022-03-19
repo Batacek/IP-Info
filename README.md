@@ -9,16 +9,19 @@ Get information about you IP and connection. No logs!
 
 <p>No, we don't log anything from this code and our <a href="https://ip.kocicak.xyz/">original</a> is without logs too.</p>
 
+# Requirements
+
+- Apache (for web server) or webhosting
+- PHP (I'm using v8.1)
 
 
-# How to use?
 
 <h2>Step 1)</h2>
 <p>Make PHP file. Just create anything.php file.</p>
-<h2>Step 3)</h2>
+<h2>Step 2)</h2>
 <p>Paste this code</p>
 
-<?php
+```<?php
     $protocol = $_SERVER['SERVER_PROTOCOL'];
     $ip = $_SERVER['REMOTE_ADDR'];
     $port = $_SERVER['REMOTE_PORT'];
@@ -34,15 +37,6 @@ Get information about you IP and connection. No logs!
     echo('User Agent: '."".$agent ."\n");
         echo("<br>");
     echo('Protocol type: '."".$protocol ."\n");
-?>
-
-<h3>Step 3)</h3>
-<p>Done! ENJOY!</p>
-
-If you want finished file just download it 
+?>```
 
 
-# Requirements
-
-- Apache (for web server) or webhosting
-- PHP (I'm using v8.1)
