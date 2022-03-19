@@ -17,9 +17,7 @@ Get information about you IP and connection. No logs!
 <p>Make PHP file. Just create anything.php file.</p>
 <h2>Step 3)</h2>
 <p>Paste this code</p>
-```
-
-<!DOCTYPE HTML>
+```<!DOCTYPE HTML>
 <HTML>
 <head>
 <title>Your IP - Kocicak.xyz</title>
@@ -44,9 +42,7 @@ Get information about you IP and connection. No logs!
     echo('Protocol type: '."".$protocol ."\n");
 ?>
 </body>
-</HTML>
-
-```
+</HTML>```
 
 <h3>Step 3)</h3>
 <p>Done! ENJOY!</p>
