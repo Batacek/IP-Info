@@ -14,6 +14,14 @@ Get information about you IP and connection. No logs!
 - Apache (for web server) or webhosting
 - PHP (I'm using v8.1)
 
+# Webhosting
+
+<h3>For webhosting/minecraft hosting i highly recommend <a href="https://hostify.cz">Hostify.cz</a>!</h3>
+<br>
+<a>It's very great hosting from Czech Republic. Hig performance, low prices and great support! On discord, they reply very fast (in few seconds/miutes if you ask in working hours).</a>
+<br>
+<br>
+<p>NOTE: Webhosting is in testing mode and not avaible now. This note will be updated.</p>
 
 
 <h2>Step 1)</h2>
@@ -37,6 +45,6 @@ Get information about you IP and connection. No logs!
     echo('User Agent: '."".$agent ."\n");
         echo("<br>");
     echo('Protocol type: '."".$protocol ."\n");
-?>```
+?>
 
 
