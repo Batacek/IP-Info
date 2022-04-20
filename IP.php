@@ -21,6 +21,9 @@
     echo('User Agent: '."".$agent ."\n");
         echo("<br>");
     echo('Protocol type: '."".$protocol ."\n");
+        echo("<br>");
+    $details = json_decode(file_get_contents("http://ipinfo.io/{$ip}"));
+    echo ('Country: '."".$details->country ."\n");
 ?>
 </body>
 </HTML>
