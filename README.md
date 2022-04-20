@@ -29,7 +29,9 @@ Get information about you IP and connection. No logs!
 <h2>Step 2)</h2>
 <p>Paste this code</p>
 
-```<?php
+```
+<?php 
+
     $protocol = $_SERVER['SERVER_PROTOCOL'];
     $ip = $_SERVER['REMOTE_ADDR'];
     $port = $_SERVER['REMOTE_PORT'];
@@ -45,6 +47,10 @@ Get information about you IP and connection. No logs!
     echo('User Agent: '."".$agent ."\n");
         echo("<br>");
     echo('Protocol type: '."".$protocol ."\n");
+        echo("<br>");
+    $details = json_decode(file_get_contents("http://ipinfo.io/{$ip}"));
+    echo ('Country: '."".$details->country ."\n");
 ?>
+```
 
 
