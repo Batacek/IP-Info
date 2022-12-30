@@ -21,7 +21,7 @@ Get information about you IP and connection. No logs!
 <a>It's very great hosting from Czech Republic. Hig performance, low prices and great support! On discord, they reply very fast (in few seconds/miutes if you ask in working hours).</a>
 <br>
 <br>
-<p>NOTE: Webhosting is in testing mode and not avaible now. This note will be updated.</p>
+<p>NOTE: Webhosting is in testing mode and not avaible now. This note will be updated. (but actually wont be bcs i dont have time and i dont want to check current status of it)</p>
 
 <img src="https://cdn.private.kocicak.xyz/public/github/ip/IP-code.png"/>
 <h2>Step 1)</h2>
