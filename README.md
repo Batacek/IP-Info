@@ -53,4 +53,5 @@ Get information about you IP and connection. No logs!
 ?>
 ```
 
-
+<h2>Step 3)</h2>
+<p>Run it with apache or on hosting, visit it with your browser and enjoy!</p>
