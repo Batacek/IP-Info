@@ -7,7 +7,7 @@ Get information about you IP and connection. No logs!
 
 # Logs?
 
-<p>No, we don't log anything from this code and our <a href="https://ip.kocicak.xyz/">original</a> is without logs too.</p>
+<p>No, we don't log anything from this code and our <a href="https://ip.kocicak.eu/">original</a> is without logs too.</p>
 
 # Requirements
 
