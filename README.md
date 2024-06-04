@@ -1,4 +1,4 @@
-# IP-Info
+# IP Info
 Get information about your IP and connection. No logs!
 
 
