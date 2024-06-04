@@ -20,7 +20,7 @@ Get information about your IP and connection. No logs!
 <br>
 <p>NOTE: Webhosting is in testing mode and not avaible now. Check it by yourself if something changed since i wrote that</p>
 
-<img src="https://cdn.private.kocicak.xyz/public/github/ip/IP-code.png"/>
+<img src="IP-code.png"/>
 <h2>Step 1)</h2>
 <p>Make PHP file. Just create *.php file. Index.php is typical name in this case.</p>
 <h2>Step 2)</h2>
@@ -52,3 +52,5 @@ Get information about your IP and connection. No logs!
 
 <h2>Step 3)</h2>
 <p>Run it with apache or on hosting, visit it with your browser and enjoy!</p>
+<br>
+<img src="preview.png">
