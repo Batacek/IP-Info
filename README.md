@@ -1,13 +1,10 @@
 # IP-Info
-Get information about you IP and connection. No logs!
-
-
-<a href="https://ip.kocicak.xyz/">Check original!</a>
+Get information about your IP and connection. No logs!
 
 
 # Logs?
 
-<p>No, we don't log anything from this code and our <a href="https://ip.kocicak.eu/">original</a> is without logs too.</p>
+<p>No, this code doesn't log anything.</p>
 
 # Requirements
 
@@ -18,18 +15,18 @@ Get information about you IP and connection. No logs!
 
 <h3>For webhosting/minecraft hosting i highly recommend <a href="https://hostify.cz">Hostify.cz</a>!</h3>
 <br>
-<a>It's very great hosting from Czech Republic. Hig performance, low prices and great support! On discord, they reply very fast (in few seconds/miutes if you ask in working hours).</a>
+<a>It's very great hosting from Czech Republic. Hig performance, low prices and great support! On discord, they reply very fast (in few miutes/immediately if you ask in working hours).</a>
 <br>
 <br>
-<p>NOTE: Webhosting is in testing mode and not avaible now. This note will be updated. (but actually wont be bcs i dont have time and i dont want to check current status of it)</p>
+<p>NOTE: Webhosting is in testing mode and not avaible now. Check it by yourself if something changed since i wrote that</p>
 
 <img src="https://cdn.private.kocicak.xyz/public/github/ip/IP-code.png"/>
 <h2>Step 1)</h2>
-<p>Make PHP file. Just create anything.php file.</p>
+<p>Make PHP file. Just create *.php file. Index.php is typical name in this case.</p>
 <h2>Step 2)</h2>
 <p>Paste this code</p>
 
-```
+```php
 <?php 
 
     $protocol = $_SERVER['SERVER_PROTOCOL'];
