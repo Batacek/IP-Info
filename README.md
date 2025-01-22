@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/github/license/Batacek/IP-info)](LICENSE)
 [![Lang](https://img.shields.io/badge/Language-PHP-pink)](Lang)
 
-Get information about your IP and connection. No logs!
+Get information about your IP and connection.
 
 
 # Requirements
