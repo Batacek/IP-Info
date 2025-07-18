@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <HTML>
 <head>
-<title>Your IP - Kocicak.xyz</title>
+<title>Your IP - Batacek.eu</title>
 </head>
 <body>
 <h1>Connection info:</h1><?php 
